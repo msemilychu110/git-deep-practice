@@ -5,3 +5,5 @@ Day 1 notes continues
 
 Day 1 learning git properly step by step 
 
+Change from folder A
+
